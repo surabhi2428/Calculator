@@ -1,0 +1,33 @@
+#table{
+    text-align: center;
+    font-size: 34px;
+    display: inline-block;
+    border: 3px solid purple;
+    border-radius: 53px;
+    background-color: rosybrown;
+    padding: 23px;
+    margin: 0px 300px;
+}
+table{
+    margin: auto;
+}
+input{
+    border:4px solid black;
+    font-size: 35px;
+    border-radius: 21px;
+}
+button{
+    border-radius: 12px;
+    font-size: 23px;
+    background: coral;
+    width: 109px;
+    height: 39px;
+    border:3px solid royalblue;
+}
+#con{
+    display: inline-block;
+    border:4px solid teal;
+    border-radius: 53px;
+    padding: 23px;
+    background-color: pink;
+}
